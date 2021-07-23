@@ -33,7 +33,7 @@
 .img {
   position: absolute;
   top: 180px;
-  left: 720px;
+  right: 0;
   transform: translate(0,-90px);
   z-index: 1;
 }
